@@ -89,19 +89,8 @@ This generates a `data.txt` file with 10,000 random double values.
 2.1
 ```
 
----
-
-## 📋 License
-
-MIT License – use freely for learning and research.
-
-````
-
----
-
 ## 📑 **report.txt**
 
-```text
 # Performance Comparison Report
 
 ## 📌 Objective
