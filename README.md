@@ -26,10 +26,8 @@ This project includes two versions of a C++ program that reads, sorts, and outpu
 |----------------------|---------------------------------------------|
 | `classical_combined.cpp` | Classical version with dynamic arrays       |
 | `stl_combined.cpp`        | STL version using vector and algorithm     |
-| `generate_data.py`    | Python script to generate test input data   |
 | `Makefile`            | For easy compilation                        |
 | `README.md`           | This documentation                         |
-| `report.txt`          | Performance comparison and result analysis |
 
 ---
 
